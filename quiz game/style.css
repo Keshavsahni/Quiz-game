@@ -1,0 +1,44 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(172, 172, 172);
+}
+
+.main-container{
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 20px;
+    margin: 30px auto 0 auto;
+    box-shadow: 10px 5px 20px #8e8e8e;
+    width: 80%;
+    max-width: 80%;
+    height: 570px;
+    max-height: 80%;
+}
+#start-heading{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    font-size: 60px;
+    color: green;
+    margin-top: 60px;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    position: relative;
+    top: 80px;
+    text-align: center;
+}
+#first{
+    margin-left: 30px;
+    float: left;
+}
+#second{
+    font-weight: 600;
+    font-size:larger;
+    position: relative;
+    top: 250px;
+}
